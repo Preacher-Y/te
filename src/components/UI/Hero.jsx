@@ -22,7 +22,7 @@ const Hero = () => {
               data-aos-duration="1500"
               className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5"
             >
-              Hello, I'm Victor Mugisha <br />
+              Hello, I'm Yves Sheja N M <br />
               Software Developer
             </h1>
 
